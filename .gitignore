@@ -1,0 +1,28 @@
+# WandB local files - VERY IMPORTANT
+wandb/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Python virtual environment
+venv/
+.env/
+env/
+venv.bak/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Large data files - Add your dataset folders here
+# Example:
+# data/
+# datasets/
+
+# Model checkpoints - Add your model save folders here
+saved_models/
+
+# Operating System files
+.DS_Store
+Thumbs.db

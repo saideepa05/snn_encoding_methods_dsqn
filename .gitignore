@@ -10,6 +10,7 @@ venv/
 .env/
 env/
 venv.bak/
+experiments/
 
 # IDE-specific files
 .vscode/

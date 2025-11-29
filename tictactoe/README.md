@@ -13,7 +13,7 @@
 - **Burst:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/6b4rn8x7?nw=nwuserkradeero)
 
 ## Training Graphs (Population Encoding)
-The following graphs demonstrate the training performance over 200 steps, showing the increase in Win+Draw rate and the decrease in Loss rate and Average Spikes.
+The following graphs demonstrate the training performance over 200 steps, each step is equals to 100 episodes, showing the increase in Win+Draw rate and the decrease in Loss rate and Average Spikes.\\
 **Population Encoding** <img width="1042" height="239" alt="image" src="https://github.com/user-attachments/assets/3b60bf17-d524-48b1-bf20-2bfee4a9e4c1" />
 
 

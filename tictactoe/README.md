@@ -16,7 +16,11 @@
 The following graphs demonstrate the training performance over 200 steps, each step is equals to 100 episodes, showing the increase in Win+Draw rate and the decrease in Loss rate and Average Spikes.
 
 **Population Encoding** <img width="1042" height="239" alt="image" src="https://github.com/user-attachments/assets/3b60bf17-d524-48b1-bf20-2bfee4a9e4c1" />
-
+**Count-rate encoding**<img width="1052" height="244" alt="image" src="https://github.com/user-attachments/assets/4aff301b-9281-49be-8931-e3fb07150536" />
+**TTFS (Time to First Spike)** <img width="1049" height="244" alt="image" src="https://github.com/user-attachments/assets/00072407-0aa9-48b8-bdd3-bce5a927bb55" />
+**ROC (Rank Order Coding)** <img width="1046" height="240" alt="image" src="https://github.com/user-attachments/assets/44c1244e-1ff7-4fd8-af73-252f3ed77c8c" />
+**SDR (Sparse Distributed Representation)** <img width="1046" height="241" alt="image" src="https://github.com/user-attachments/assets/d622acda-1179-4ff5-ae54-90a448dfdd1d" />
+**Burst Encoding** <img width="1048" height="242" alt="image" src="https://github.com/user-attachments/assets/9e283e3c-bd80-423a-97a9-76c3a5e9192b" />
 
 
 ## Evaluation Results

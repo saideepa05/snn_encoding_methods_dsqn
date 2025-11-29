@@ -1,6 +1,6 @@
 # Project References
 
-## Base Code
+## Base Code References
 - **TicTacToe Logic:** [CodeLearn.io Reference](https://codelearn.io/sharing/day-ai-danh-tictactoe-voi-deep-learning)
 - **DSQN Algorithm:** [mahmoudakl/dsrl](https://github.com/mahmoudakl/dsrl)
 

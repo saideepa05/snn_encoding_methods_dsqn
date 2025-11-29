@@ -81,16 +81,12 @@ Aggregated results over 5 random seeds (Mean ± Std Dev).
 We compared the best performing SNN configuration against a standard DQN baseline to verify that spiking networks can achieve competitive win rates.
 
 ### Tic-Tac-Toe Comparison
-**Left:** Agent going First | **Right:** Agent going Second
 
-<img width="682" height="239" alt="ttt_1" src="https://github.com/user-attachments/assets/0c905f1e-e5ea-4e80-901f-dbb3207636bc" />
+<img width="682" height="239" alt="ttt_1" src="https://github.com/user-attachments/assets/0c905f1e-e5ea-4e80-901f-dbb3207636bc" /> <img width="682" height="239" alt="ttt_2" src="https://github.com/user-attachments/assets/5be594e7-35b2-41ad-964b-16a9e65b0ea7" />
 
-
-<img width="682" height="239" alt="ttt_2" src="https://github.com/user-attachments/assets/5be594e7-35b2-41ad-964b-16a9e65b0ea7" />
 
 
 ### Connect 4 Comparison
-**Left:** Agent going First | **Right:** Agent going Second
 
 <img width="679" height="242" alt="c4_1" src="https://github.com/user-attachments/assets/fb167466-1d19-46f1-a916-36073985f4e1" />
 

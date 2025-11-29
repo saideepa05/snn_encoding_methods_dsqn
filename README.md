@@ -7,7 +7,7 @@ This repository investigates whether Deep Spiking Q-Network (DSQN) models can pe
 
 This repository is structured to separate the experiments based on the game environment (**Tic-Tac-Toe** and **Connect 4**). Each game directory is self-contained and organized into three specific modules to facilitate reproducibility and analysis.
 
-### 1. Game Directories (`tictactoe/` and `connect4/`)
+#### 1. Game Directories (`tictactoe/` and `connect4/`)
 Both game folders follow an identical structure:
 
 *   **`encoding/`**: This folder contains the core experiments of this research. It holds individual Jupyter Notebooks for each Spiking Neural Network (SNN) encoding method. Running these notebooks will train a DSQN agent using that specific spike encoding strategy and log the energy efficiency metrics.
@@ -19,11 +19,8 @@ Both game folders follow an identical structure:
 
 *   **`saved_models/`**: This directory stores the pre-trained PyTorch weights (`.pth` files). These models allow you to evaluate performance or visualize gameplay without needing to retrain the agents from scratch.
 
-### 2. Visualization (`graphs/`)
+#### 2. Visualization (`graphs/`)
 This folder contains the scripts and generated images used to visualize the different encoding methods for better understanding. 
-
-### 3. Root Files
-*   **`requirements.txt`**: Lists all Python dependencies required to run the notebooks (e.g., PyTorch, Gym, Matplotlib).
 
 ## References
 

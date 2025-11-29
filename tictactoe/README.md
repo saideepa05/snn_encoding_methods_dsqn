@@ -13,7 +13,8 @@
 - **Burst:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/6b4rn8x7?nw=nwuserkradeero)
 
 ## Evaluation Results
-We have evaluated the results on 5 different seed values (42, 52, 62, 72, 82). Below are the specific performance metrics for **Population Encoding**:
+We have evaluated the results on 5 different seed values (42, 52, 62, 72, 82). 
+Below are the specific performance metrics for **Population Encoding**:
 
 | Seed | Win+Draw | Loss | Simp | Detailed | Total Spikes | Avg % Sparsity | Avg ACs | Internal State MACs |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

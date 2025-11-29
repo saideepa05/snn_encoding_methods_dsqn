@@ -2,6 +2,29 @@
 
 This repository investigates whether Deep Spiking Q-Network (DSQN) models can perform at par with standard Deep Q-Network (DQN) models in turn-based strategy games. The project focuses on evaluating different spike encoding methods to determine which strategies offer the best balance between game performance (Win Rate) and energy efficiency.
 
+
+## Repository Structure 
+
+This repository is structured to separate the experiments based on the game environment (**Tic-Tac-Toe** and **Connect 4**). Each game directory is self-contained and organized into three specific modules to facilitate reproducibility and analysis.
+
+### 1. Game Directories (`tictactoe/` and `connect4/`)
+Both game folders follow an identical structure:
+
+*   **`encoding/`**: This folder contains the core experiments of this research. It holds individual Jupyter Notebooks for each Spiking Neural Network (SNN) encoding method. Running these notebooks will train a DSQN agent using that specific spike encoding strategy and log the energy efficiency metrics.
+
+*   **`dqn_dsqn/`**: This folder is dedicated to the baseline comparisons. It contains notebooks that pit a standard Deep Q-Network (DQN) against the Deep Spiking Q-Network (DSQN) to compare win-rates and learning stability.
+    *   **File Naming Convention:**
+        *   Files ending in **`_1`** or **`_first`** (e.g., `dqn_1.ipynb`, `dsqn_first.ipynb`) train the agent to play as **Player 1** (making the first move).
+        *   Files ending in **`_2`** or **`_second`** (e.g., `dqn_2.ipynb`, `dsqn_second.ipynb`) train the agent to play as **Player 2** (making the blocking/second move).
+
+*   **`saved_models/`**: This directory stores the pre-trained PyTorch weights (`.pth` files). These models allow you to evaluate performance or visualize gameplay without needing to retrain the agents from scratch.
+
+### 2. Visualization (`graphs/`)
+This folder contains the scripts and generated images used to visualize the different encoding methods for better understanding. 
+
+### 3. Root Files
+*   **`requirements.txt`**: Lists all Python dependencies required to run the notebooks (e.g., PyTorch, Gym, Matplotlib).
+
 ## References
 
 ### Base Code

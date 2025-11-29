@@ -17,7 +17,7 @@ The following graphs demonstrate the training performance over the training step
 
 ### Population Encoding
 
-<!-- Drag and drop your Population graph here -->
+<img width="1048" height="242" alt="image" src="https://github.com/user-attachments/assets/a9d318af-bfc1-49b5-920e-e02f414f39df" />
 
 | Seed | Win+Draw | Loss | Simp | Detailed | Total Spikes | Avg % Sparsity | Avg ACs | Internal State MACs |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -31,7 +31,7 @@ The following graphs demonstrate the training performance over the training step
 
 ### Count-rate Encoding
 
-<!-- Drag and drop your Count-rate graph here -->
+<img width="1048" height="245" alt="image" src="https://github.com/user-attachments/assets/02839526-e83d-4c0d-a406-7b955baa3617" />
 
 | Seed | Win+Draw | Loss | Simp | Detailed | Total Spikes | Avg % Sparsity | Avg ACs | Internal State MACs |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -45,7 +45,7 @@ The following graphs demonstrate the training performance over the training step
 
 ### TTFS (Time to First Spike)
 
-<!-- Drag and drop your TTFS graph here -->
+<img width="1048" height="242" alt="image" src="https://github.com/user-attachments/assets/697c4103-9762-4db8-aa4e-638c796bd3f1" />
 
 | Seed | Win+Draw | Loss | Simp | Detailed | Total Spikes | Avg % Sparsity | Avg ACs | Internal State MACs |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -59,7 +59,7 @@ The following graphs demonstrate the training performance over the training step
 
 ### ROC (Rank Order Coding)
 
-<!-- Drag and drop your ROC graph here -->
+<img width="1045" height="241" alt="image" src="https://github.com/user-attachments/assets/e62642e3-669b-42dc-9e10-d4d70f395c78" />
 
 | Seed | Win+Draw | Loss | Simp | Detailed | Total Spikes | Avg % Sparsity | Avg ACs | Internal State MACs |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -73,7 +73,7 @@ The following graphs demonstrate the training performance over the training step
 
 ### SDR (Sparse Distributed Representation)
 
-<!-- Drag and drop your SDR graph here -->
+<img width="1048" height="241" alt="image" src="https://github.com/user-attachments/assets/e99b350f-9f31-4214-b829-501098cac831" />
 
 | Seed | Win+Draw | Loss | Simp | Detailed | Total Spikes | Avg % Sparsity | Avg ACs | Internal State MACs |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -87,7 +87,7 @@ The following graphs demonstrate the training performance over the training step
 
 ### Burst Encoding
 
-<!-- Drag and drop your Burst graph here -->
+<img width="1047" height="241" alt="image" src="https://github.com/user-attachments/assets/6839d991-072f-46b4-a37b-91150935465c" />
 
 | Seed | Win+Draw | Loss | Simp | Detailed | Total Spikes | Avg % Sparsity | Avg ACs | Internal State MACs |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

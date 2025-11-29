@@ -15,7 +15,7 @@
 ## Training Graphs and Evaluation results
 The following graphs demonstrate the training performance over 200 steps, each step is equals to 100 episodes, showing the increase in Win+Draw rate and the decrease in Loss rate and Average Spikes. We have evaluated the trained model on 5 different seed values (42, 52, 62, 72, 82). 
 
-**Population Encoding**: 
+### Population Encoding 
 
 <img width="1042" height="239" alt="image" src="https://github.com/user-attachments/assets/3b60bf17-d524-48b1-bf20-2bfee4a9e4c1" />
 
@@ -29,7 +29,7 @@ The following graphs demonstrate the training performance over 200 steps, each s
 | **AVG** | **99.40**<br>*(±0.89)* | **0.6**<br>*(±0.89)* | **96.8** | **76.9** | **250.21** | **80.45** | **36,346.89** | **3,150.42** |
 
 
-**Count-rate encoding**
+### Count-rate encoding
 
 <img width="1052" height="244" alt="image" src="https://github.com/user-attachments/assets/4aff301b-9281-49be-8931-e3fb07150536" />
 
@@ -43,7 +43,7 @@ The following graphs demonstrate the training performance over 200 steps, each s
 | **AVG** | **97.00**<br>*(±1.00)* | **3.00**<br>*(±1.00)* | **97.4** | **81.1** | **206.00** | **83.90** | **14,720.20** | **3,062.00** |
 
 
-**TTFS (Time to First Spike)** 
+### TTFS (Time to First Spike)
 
 <img width="1049" height="244" alt="image" src="https://github.com/user-attachments/assets/00072407-0aa9-48b8-bdd3-bce5a927bb55" />
 
@@ -57,7 +57,7 @@ The following graphs demonstrate the training performance over 200 steps, each s
 | **AVG** | **99.40**<br>*(±0.89)* | **0.60**<br>*(±0.89)* | **98.1** | **82.7** | **148.42** | **88.41** | **8,874.95** | **2,946.84** |
 
 
-**ROC (Rank Order Coding)** 
+### ROC (Rank Order Coding)
 
 <img width="1046" height="240" alt="image" src="https://github.com/user-attachments/assets/44c1244e-1ff7-4fd8-af73-252f3ed77c8c" />
 
@@ -71,7 +71,7 @@ The following graphs demonstrate the training performance over 200 steps, each s
 | **AVG** | **99.80**<br>*(±0.45)* | **0.20**<br>*(±0.45)* | **96.9** | **81.0** | **243.54** | **80.98** | **12,761.42** | **3,137.08** |
 
 
-**SDR (Sparse Distributed Representation)** 
+### SDR (Sparse Distributed Representation)
 
 <img width="1046" height="241" alt="image" src="https://github.com/user-attachments/assets/d622acda-1179-4ff5-ae54-90a448dfdd1d" />
 
@@ -85,7 +85,7 @@ The following graphs demonstrate the training performance over 200 steps, each s
 | **AVG** | **100.00**<br>*(±0.00)* | **0.00**<br>*(±0.00)* | **97.3** | **75.2** | **212.30** | **83.42** | **48,599.00** | **3,074.50** |
 
 
-**Burst Encoding** 
+### Burst Encoding
 
 <img width="1048" height="242" alt="image" src="https://github.com/user-attachments/assets/9e283e3c-bd80-423a-97a9-76c3a5e9192b" />
 

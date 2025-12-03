@@ -5,6 +5,10 @@
 - **DSQN Algorithm:** [mahmoudakl/dsrl](https://github.com/mahmoudakl/dsrl)
 
 ## Weights & Biases (WandB) Logs
+- **DQN (Agent First):** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/l5u4nvem)
+- **DQN (Agent Second):** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/sb9stdtf)
+- **DSQN (Agent First):** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/fb5l7o7r)
+- **DSQN (Agent Second):** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/usjd404z)
 - **Population Encoding:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/w1kxmerj)
 - **Count-Rate:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/7uenxci2)
 - **TTFS:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/ld6axhvq)

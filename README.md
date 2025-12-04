@@ -80,13 +80,15 @@ Aggregated results over 5 random seeds (Mean ± Std Dev).
 ## 3. Baseline Comparison (DSQN vs. DQN)
 We compared the best performing SNN configuration against a standard DQN baseline to verify that spiking networks can achieve competitive win rates.
 
-### Tic-Tac-Toe Comparison
+### Tic-Tac-Toe Comparison VS random agent
 
 <img width="682" height="239" alt="ttt_1" src="https://github.com/user-attachments/assets/0c905f1e-e5ea-4e80-901f-dbb3207636bc" /> <img width="682" height="239" alt="ttt_2" src="https://github.com/user-attachments/assets/5be594e7-35b2-41ad-964b-16a9e65b0ea7" />
 
+### Tic-Tac-Toe Comparison VS minimax agent
 
+<img width="692" height="251" alt="minimax_1" src="https://github.com/user-attachments/assets/002802f9-d318-4364-b9af-a57b11de2388" /> <img width="688" height="252" alt="minimax_2" src="https://github.com/user-attachments/assets/57a266b4-192d-4be3-a87a-9cc89b62baa7" />
 
-### Connect 4 Comparison
+### Connect 4 Comparison VS random agent
 
 <img width="679" height="242" alt="c4_1" src="https://github.com/user-attachments/assets/fb167466-1d19-46f1-a916-36073985f4e1" />
 

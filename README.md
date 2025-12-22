@@ -113,3 +113,6 @@ Both game folders follow an identical structure:
 
 #### 2. Visualization (`graphs/`)
 This folder contains the scripts and generated images used to visualize the different encoding methods for better understanding. 
+
+#### 2. rstdp_spinnaker
+This file consists of a implementation of the TicTacToe game using the Reward-modulated spike time dependent plasticity on the spinnaker chip. 

@@ -106,7 +106,7 @@ The following graphs demonstrate the training performance over the training step
 <img width="766" height="239" alt="image (6)" src="https://github.com/user-attachments/assets/5092cc6d-cd7f-4df6-9a7e-c07c3c7cd95d" />
 
  - **Burst for instantaneous encoding:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/fmu9xmfs?nw=nwuserkradeero)
- - 
+ 
 <img width="773" height="245" alt="image (5)" src="https://github.com/user-attachments/assets/232b47da-55d7-4634-b5c8-eec76c36eae4" />
 
 
@@ -115,9 +115,7 @@ Uses a **True Temporal Burst** pattern where spikes are distributed over 5 time 
 *   This validates the SNN's ability to process temporal spike trains in low-dimensional state spaces.
 ##### 2. Connect 4 (Instantaneous Burst, $T=1$)
 Uses an **Instantaneous Intensity Approximation** where the cumulative charge of a burst is injected as a scalar value in a single time step.
-> **Why?** 
-> Our experiments (see Gradient Analysis in Thesis) demonstrated that scaling temporal bursting to the larger Connect 4 state space caused **Gradient Instability (Thrashing)** due to noise in Backpropagation Through Time (BPTT). 
-> The instantaneous approximation eliminates this noise, ensuring stable convergence while preserving signal magnitude.
+**Why?** Our experiments demonstrated that scaling temporal bursting to the larger Connect 4 state space caused **Gradient Instability (Thrashing)** due to noise in Backpropagation Through Time (BPTT). The instantaneous approximation eliminates this noise, ensuring stable convergence while preserving signal magnitude.
 
 
 

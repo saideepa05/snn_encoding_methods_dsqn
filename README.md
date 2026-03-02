@@ -1,5 +1,5 @@
 # SNN Encoding Methods Analysis
-<!--
+
 This repository investigates whether Deep Spiking Q-Network (DSQN) models can perform at par with standard Deep Q-Network (DQN) models in turn-based strategy games. The project focuses on evaluating different spike encoding methods to determine which strategies offer the best balance between game performance (Win Rate) and energy efficiency.
 
 ## References
@@ -10,7 +10,7 @@ This repository investigates whether Deep Spiking Q-Network (DSQN) models can pe
 - **DSQN Algorithm:** [mahmoudakl/dsrl](https://github.com/mahmoudakl/dsrl)
   
 ---
-
+<!--
 ## 1. Tic-Tac-Toe Evaluation
 The following section analyzes the performance of various encoding methods on the Tic-Tac-Toe environment.
 

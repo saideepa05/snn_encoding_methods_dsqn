@@ -1,5 +1,5 @@
 # SNN Encoding Methods Analysis
-
+<!--
 This repository investigates whether Deep Spiking Q-Network (DSQN) models can perform at par with standard Deep Q-Network (DQN) models in turn-based strategy games. The project focuses on evaluating different spike encoding methods to determine which strategies offer the best balance between game performance (Win Rate) and energy efficiency.
 
 ## References
@@ -116,3 +116,4 @@ This folder contains the scripts and generated images used to visualize the diff
 
 #### 2. rstdp_spinnaker
 This file consists of a implementation of the TicTacToe game using the Reward-modulated spike time dependent plasticity on the spinnaker chip. 
+-->

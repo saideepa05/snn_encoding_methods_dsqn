@@ -9,8 +9,7 @@ This repository investigates whether Deep Spiking Q-Network (DSQN) models can pe
 - **Connect 4 Logic:** [GitHub Reference](https://github.com/neoyung/connect-4/tree/master)
 - **DSQN Algorithm:** [mahmoudakl/dsrl](https://github.com/mahmoudakl/dsrl)
   
----
-<!--
+
 ## 1. Tic-Tac-Toe Evaluation
 The following section analyzes the performance of various encoding methods on the Tic-Tac-Toe environment.
 
@@ -116,4 +115,4 @@ This folder contains the scripts and generated images used to visualize the diff
 
 #### 2. rstdp_spinnaker
 This file consists of a implementation of the TicTacToe game using the Reward-modulated spike time dependent plasticity on the spinnaker chip. 
--->
+

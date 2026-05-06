@@ -19,7 +19,7 @@
 - **ROC:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/8t2erdo5)
 - **SDR:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/9bu0y8po)
 - **Burst:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/6b4rn8x7?nw=nwuserkradeero)
-<!--
+
 ## Training Graphs and Evaluation results
 The following graphs demonstrate the training performance over 200 steps, each step is equals to 100 episodes, showing the increase in Win+Draw rate and the decrease in Loss rate and Average Spikes. We have evaluated the trained model on 5 different seed values (42, 52, 62, 72, 82). 
 
@@ -105,6 +105,6 @@ The following graphs demonstrate the training performance over 200 steps, each s
 | **72** | 99 | 1 | 96.9 | 80.3 | 242.25 | 81.07 | 16,716.69 | 3,134.49 |
 | **82** | 97 | 3 | 97.0 | 80.4 | 239.11 | 81.32 | 16,475.28 | 3,128.23 |
 | **AVG** | **98.20**<br>*(±1.10)* | **1.80**<br>*(±1.10)* | **97.0** | **80.4** | **241.00** | **81.17** | **16,600.23** | **3,132.01** |
--->
+
 
 

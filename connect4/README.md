@@ -15,7 +15,7 @@
 - **ROC:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/2sr1653z)
 - **SDR:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/ofy0txsa)
 - **Burst:** [Link](https://wandb.ai/kradeero-ohio-university/experiments/runs/rz0eegr6)
-<!--
+
 ## Training Graphs and Evaluation Results
 The following graphs demonstrate the training performance over the training steps. We have evaluated the trained model on 5 different seed values (42, 52, 62, 72, 82).
 
@@ -117,6 +117,6 @@ Uses a **True Temporal Burst** pattern where spikes are distributed over 5 time 
 Uses an **Instantaneous Intensity Approximation** where the cumulative charge of a burst is injected as a scalar value in a single time step.
 **Why?** Our experiments demonstrated that scaling temporal bursting to the larger Connect 4 state space caused **Gradient Instability (Thrashing)** due to noise in Backpropagation Through Time (BPTT). The instantaneous approximation eliminates this noise, ensuring stable convergence while preserving signal magnitude.
 
--->
+
 
 
